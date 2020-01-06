@@ -70,6 +70,11 @@ h3 {
   border-bottom: none;
 }
 
+.hobbies {background: #e3e450;
+}
+
+.hobbies img{cursor: pointer;
+}
 
 /* Profile
 ------------------------------------*/
